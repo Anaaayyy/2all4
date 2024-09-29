@@ -75,6 +75,7 @@ namespace _2all4
     {
         static void Main()
         {
+            Console.WriteLine("----------Интерфейсы и абстрактные классы----------");
             // Создаем массив объектов, реализующих интерфейс IDrawable
             IDrawable[] drawableObjects = new IDrawable[]
             {
